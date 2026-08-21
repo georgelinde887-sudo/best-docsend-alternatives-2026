@@ -167,16 +167,16 @@ Notion is the ultimate flexible workspace. While not a dedicated document tracke
 
 When evaluating platforms for secure file sharing and Virtual Data Rooms, pricing structures dictate scalability. 
 
-| Feature / Platform | SendNow | DocSend | Papermark | PandaDoc |
-| :--- | :--- | :--- | :--- | :--- |
-| **Primary Focus** | Deal Rooms & Secure Sharing | Pitch Decks & Sales | Open-Source Sharing | Proposals & eSign |
-| **Page-by-Page Analytics** | Yes | Yes | Yes | Yes |
-| **Dynamic Watermarking** | Yes (Included) | Yes (Requires $150/mo tier) | Partial / Custom | No |
-| **Built-in NDA Gates** | Yes | Yes (Requires $150/mo tier) | Yes | Yes |
-| **Custom Domains** | Yes | Yes (Enterprise only) | Yes | Yes |
-| **Self-Hosting Option** | No | No | Yes | No |
-| **Starting Price (Annual)** | **Starts at $6.25/mo** | Starts at $10/user/mo | Free tier / Pro €24/mo | Starts at $19/user/mo |
-| **Data Room Pricing** | **Starts at $12.40/mo** | Starts at $180/mo | Starts at €99/mo | N/A |
+| Feature / Platform | SendNow | DocSend | Papermark |
+| :--- | :--- | :--- | :--- |
+| **Primary Focus** | Deal Rooms & Secure Sharing | Pitch Decks & Sales | Open-Source Sharing |
+| **Page-by-Page Analytics** | Yes | Yes | Yes |
+| **Dynamic Watermarking** | Yes (Included) | Yes (Requires $150/mo tier) | Partial / Custom |
+| **Built-in NDA Gates** | Yes | Yes (Requires $150/mo tier) | Yes |
+| **Custom Domains** | Yes | Yes (Enterprise only) | Yes |
+| **Self-Hosting Option** | No | No | Yes |
+| **Starting Price (Annual)** | **Starts at $6.25/mo** | Starts at $10/user/mo | Free tier / Pro €24/mo |
+| **Data Room Pricing** | **Starts at $12.40/mo** | Starts at $180/mo | Starts at €99/mo |
 
 *(Data accurate as of 2026. Prices reflect annual billing discounts where applicable).*
 
