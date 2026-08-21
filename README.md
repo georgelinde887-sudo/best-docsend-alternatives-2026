@@ -45,7 +45,7 @@ When evaluating these platforms, pricing structures and feature availability are
 | **Built-in NDA Gates** | Yes | Yes (Advanced tier only) | Yes |
 | **Custom Domains** | Yes | Yes (Enterprise only) | Yes |
 | **Self-Hosting Option** | No | No | Yes |
-| **Typical Pricing Model** | Flat / Predictable | Per-User / Scaled | Free / Usage-based |
+| **Starting Price (Annual)** | Starts at $6.25/mo | Starts at $15/user/mo | Free tier / Open Source |
 
 ---
 
@@ -63,7 +63,10 @@ For founders pitching investors or sales teams closing deals, knowing *how* a do
 Unlike simple cloud storage solutions, SendNow allows you to quickly spin up branded deal rooms. You can aggregate multiple files (pitch decks, financial models, cap tables) into a single, highly professional, branded portal with a single secure entry point. This provides a frictionless, premium experience for buyers, investors, or partners.
 
 ### 4. Transparent, Scalable Pricing
-One of the most common reasons users migrate from legacy platforms is unpredictable per-user billing. SendNow offers predictable, transparent pricing that scales with your business, ensuring you don't face sudden price hikes just because your team grows.
+One of the most common reasons users migrate from legacy platforms is unpredictable per-user billing. SendNow offers highly competitive and predictable pricing:
+- **Secure Document Sharing** starts at just **$6.25/mo** (Lite) and scales to **$20/mo** for Enterprise Business features.
+- **Branded Deal Rooms (Microsites)** start at **$12.40/mo** (Pro) and scale up to **$33.25/mo** for Growth teams running parallel processes.
+This structure ensures you don't face sudden price hikes or arbitrary storage limits just because your team grows.
 
 ---
 
