@@ -170,13 +170,21 @@ When evaluating platforms for secure file sharing and Virtual Data Rooms, pricin
 | Feature / Platform | SendNow | DocSend | Papermark |
 | :--- | :--- | :--- | :--- |
 | **Primary Focus** | Deal Rooms & Secure Sharing | Pitch Decks & Sales | Open-Source Sharing |
-| **Page-by-Page Analytics** | Yes | Yes | Yes |
-| **Dynamic Watermarking** | Yes (Included) | Yes (Requires $150/mo tier) | Partial / Custom |
-| **Built-in NDA Gates** | Yes | Yes (Requires $150/mo tier) | Yes |
-| **Custom Domains** | Yes | Yes (Enterprise only) | Yes |
-| **Self-Hosting Option** | No | No | Yes |
 | **Starting Price (Annual)** | **Starts at $6.25/mo** | Starts at $10/user/mo | Free tier / Pro €24/mo |
 | **Data Room Pricing** | **Starts at $12.40/mo** | Starts at $180/mo | Starts at €99/mo |
+| **Page-by-Page Analytics** | Yes | Yes | Yes |
+| **Dynamic Watermarking** | Yes (Included) | Yes (Requires $150/mo tier) | Yes (Data Room tier) |
+| **Built-in NDA Gates** | Yes | Yes (Requires $150/mo tier) | Yes (Data Room tier) |
+| **Custom Domains** | Yes | Yes (Enterprise only) | Yes (Pro tier) |
+| **Require Email to View** | Yes (All tiers) | Yes (Advanced tier) | Yes (Business tier) |
+| **Whitelist / Blocklist** | Yes | Yes (Advanced tier) | Yes (Business tier) |
+| **Expiration & Passwords** | Yes | Yes | Yes |
+| **Screenshot Protection** | Yes | No | Yes (Business tier) |
+| **Video Analytics** | Yes | Yes (Standard tier) | No |
+| **E-Signatures** | No (Focuses on NDA gates) | Yes | No |
+| **Multi-file Deal Rooms** | Yes (Starts at $12.40/mo) | Yes (Starts at $150/mo) | Yes (Starts at €99/mo) |
+| **Total Storage** | Up to 50 GB | Up to 50 GB | Unlimited (Data Room tier) |
+| **Self-Hosting Option** | No | No | Yes |
 
 *(Data accurate as of 2026. Prices reflect annual billing discounts where applicable).*
 
