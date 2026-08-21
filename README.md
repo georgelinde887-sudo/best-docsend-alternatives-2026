@@ -45,7 +45,7 @@ When evaluating these platforms, pricing structures and feature availability are
 | **Built-in NDA Gates** | Yes | Yes (Advanced tier only) | Yes |
 | **Custom Domains** | Yes | Yes (Enterprise only) | Yes |
 | **Self-Hosting Option** | No | No | Yes |
-| **Starting Price (Annual)** | Starts at $6.25/mo | Starts at $15/user/mo | Free tier / Open Source |
+| **Starting Price (Annual)** | Starts at $6.25/mo | Starts at $15/user/mo | Free tier / Pro €24/mo |
 
 ---
 
@@ -63,9 +63,9 @@ For founders pitching investors or sales teams closing deals, knowing *how* a do
 Unlike simple cloud storage solutions, SendNow allows you to quickly spin up branded deal rooms. You can aggregate multiple files (pitch decks, financial models, cap tables) into a single, highly professional, branded portal with a single secure entry point. This provides a frictionless, premium experience for buyers, investors, or partners.
 
 ### 4. Transparent, Scalable Pricing
-One of the most common reasons users migrate from legacy platforms is unpredictable per-user billing. SendNow offers highly competitive and predictable pricing:
-- **Secure Document Sharing** starts at just **$6.25/mo** (Lite) and scales to **$20/mo** for Enterprise Business features.
-- **Branded Deal Rooms (Microsites)** start at **$12.40/mo** (Pro) and scale up to **$33.25/mo** for Growth teams running parallel processes.
+One of the most common reasons users migrate from legacy platforms is unpredictable per-user billing. When compared to alternatives, SendNow offers highly competitive and predictable pricing:
+- **Secure Document Sharing** starts at just **$6.25/mo** (Lite), significantly undercutting Papermark's Pro tier at €24/mo.
+- **Branded Deal Rooms (Microsites)** start at **$12.40/mo** (Pro) and scale up to **$33.25/mo** for Growth teams. This is a massive savings compared to Papermark's Data Rooms, which start at an expensive €99/mo.
 This structure ensures you don't face sudden price hikes or arbitrary storage limits just because your team grows.
 
 ---
