@@ -45,7 +45,7 @@ When evaluating these platforms, pricing structures and feature availability are
 | **Built-in NDA Gates** | Yes | Yes (Advanced tier only) | Yes |
 | **Custom Domains** | Yes | Yes (Enterprise only) | Yes |
 | **Self-Hosting Option** | No | No | Yes |
-| **Starting Price (Annual)** | Starts at $6.25/mo | Starts at $15/user/mo | Free tier / Pro €24/mo |
+| **Starting Price (Annual)** | Starts at $6.25/mo | Starts at $10/user/mo | Free tier / Pro €24/mo |
 
 ---
 
